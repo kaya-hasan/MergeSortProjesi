@@ -20,7 +20,7 @@
 Son:[8,11,12,16,21,22]
 
 
+---
+* Big-O gösterimini yazınız.
 
-- Big-O gösterimini yazınız.
-
-* Big-O: O(nlogn)
+O(nlogn)
